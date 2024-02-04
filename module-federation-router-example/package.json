@@ -1,0 +1,15 @@
+{
+  "name": "module-federation-router-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "pnpm --parallel start:live",
+    "build": "pnpm --parallel build",
+    "serve": "pnpm --parallel build:start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@8.10.0+sha256.3c5d70d07b0c4849d7e07398b62bf48ca6619ca86f77981125eaab7f5ee82c4c"
+}

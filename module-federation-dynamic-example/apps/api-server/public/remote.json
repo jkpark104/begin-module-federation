@@ -1,0 +1,4 @@
+{
+  "scope": "component_app1",
+  "remoteUrl": "http://localhost:3001/remoteEntry.js"
+}
